@@ -47,7 +47,7 @@ rehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A Windows 11 VM was created as well as a Resource Group needed to be Configured. The next step, was to create a Virtual Network, Subnet and a Linux (Unbuntu) VM. Remote Desktop was used to connect to Windows 11 VM, but within Windows 11 VM, Wire Shark needed to be installed. Wire Shark was opened and a filter for ICMP traffic only was configured. The next step was to retrieve the IPaddress of the Unbutu VM and ping it from the Windows 11 VM. The ping was observed and the replies and request within Wire Shark were observed. In conclusion, from a Windows 11 VM using Powershell, it was opened and a ping to a public website was open and observed traffic within Wire Shark.  
 </p>
 <br />
 
