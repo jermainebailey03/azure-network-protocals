@@ -32,7 +32,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img width="1568" height="938" alt="Screenshot_4-9-2026_20167_coursecareers com" src="https://github.com/user-attachments/assets/d204c463-bf65-4595-a129-7b789ccc8acb" />
+<img width="1454" height="947" alt="Screenshot_23-10-2026_192041_coursecareers com" src="https://github.com/user-attachments/assets/c325b050-e654-495b-b3fe-801db2e50a7d" />
+
 
 </p>
 <p>
