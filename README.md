@@ -37,8 +37,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in rep
-rehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this Lab, a Firewall needed to be Configured in Network Security Group. A perpetual/non-stop ping had to be Initiated from Windows 11 VM to the Ubuntu VM. Next step was to open the Network Security Group on the Ubuntu VM and disable incoming (inbound) ICMP traffic. Back in the Windows 11 VM, ICMP traffic was observed in Wireshark and the command line Ping activity. Next step was to Re-enable ICMP traffic for the Network Security Group that Ubuntu VM is using. Back in Windows 11 VM, ICMP traffic was observed in Wireshark and the command line activity to make sure it was configured correctly.
 </p>
 <br />
 
