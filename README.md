@@ -52,7 +52,7 @@ A Windows 11 VM was created as well as a Resource Group needed to be Configured.
 <br />
 
 <p>
-<img width="1660" height="936" alt="Screenshot_23-10-2026_194838_coursecareers com" src="https://github.com/user-attachments/assets/fe178a8a-1585-4fbc-90c5-44167fb0abb1" />
+<img width="1329" height="929" alt="Screenshot_23-10-2026_20300_coursecareers com" src="https://github.com/user-attachments/assets/482364f0-9ec8-48c6-b66c-7fd9308036d2" />
 
 </p>
 <p>
