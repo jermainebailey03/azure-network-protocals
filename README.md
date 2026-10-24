@@ -37,7 +37,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 </p>
 <p>
-In this Lab, a Firewall needed to be Configured in Network Security Group. A perpetual/non-stop ping had to be Initiated from Windows 11 VM to the Ubuntu VM. Next step was to open the Network Security Group on the Ubuntu VM and disable incoming (inbound) ICMP traffic. Back in the Windows 11 VM, ICMP traffic was observed in Wireshark and the command line Ping activity. Next step was to Re-enable ICMP traffic for the Network Security Group that Ubuntu VM is using. Back in Windows 11 VM, ICMP traffic was observed in Wireshark and the command line activity to make sure it was configured correctly.
+In this Lab, a Firewall needed to be Configured in Network Security Group. A perpetual/non-stop ping had to be initiated from Windows 11 VM to the Ubuntu VM. Next step was to open the Network Security Group on the Ubuntu VM and disable incoming (inbound) ICMP traffic. Back in the Windows 11 VM, ICMP traffic was observed in Wireshark and the command line Ping activity. Next step was to Re-enable ICMP traffic for the Network Security Group that Ubuntu VM is using. Back in Windows 11 VM, ICMP traffic was observed in Wireshark and the command line activity to make sure it was configured correctly.
 </p>
 <br />
 
@@ -56,6 +56,6 @@ A Windows 11 VM was created as well as a Resource Group needed to be Configured.
 
 </p>
 <p>
-In this Lab SSH traffic was observed inside Wireshark, filtering for SSH traffic only inside the command line. From Windows 11 VM , "SSH into"  was placed into the Ubuntu Virtual Machine (via its private IP address). Next step was to type commands (username, pwd, ect) into the Linux SSH connection and observe SSH traffic spam in Wireshark on the back end. 
+In this Lab SSH traffic was being observed inside Wireshark and filtering for SSH traffic only inside the command line. From Windows 11 VM , "SSH into"  was placed into the Ubuntu Virtual Machine (via its private IP address). Next step was to type commands (username, pwd, ect) into the Linux SSH connection and observe SSH traffic spam in Wireshark on the back end. In conclusion, a deep dive was done inside SSH protocal and it was noted that the content inside the packet was encrypted and could not be seen because the packet was being scrambled over the internet.
 </p>
 <br />
