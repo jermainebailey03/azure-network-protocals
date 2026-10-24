@@ -52,10 +52,10 @@ A Windows 11 VM was created as well as a Resource Group needed to be Configured.
 <br />
 
 <p>
-<img width="1449" height="1007" alt="Screenshot_28-8-2026_192628_coursecareers com" src="https://github.com/user-attachments/assets/72a259ac-14d8-4c39-9ecb-3a572379d9d8" />
+<img width="1660" height="936" alt="Screenshot_23-10-2026_194838_coursecareers com" src="https://github.com/user-attachments/assets/fe178a8a-1585-4fbc-90c5-44167fb0abb1" />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this Lab SSH traffic was observed inside Wireshark, filtering for SSH traffic only inside the command line. From Windows 11 VM , "SSH into"  was placed into the Ubuntu Virtual Machine (via its private IP address). Next step was to type commands (username, pwd, ect) into the Linux SSH connection and observe SSH traffic spam in Wireshark on the back end. 
 </p>
 <br />
